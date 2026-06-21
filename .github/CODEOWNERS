@@ -1,7 +1,17 @@
-# Order is important. The LAST matching pattern has the MOST precedence.
-# gitignore style patterns are used, not globs.
-# https://docs.github.com/articles/about-codeowners
-# https://git-scm.com/docs/gitignore
+lac# Order is important. The LAST matching pattern has the MOST precedence.
+
+# gitignore style patterns are used, not globs
+
+# [def2]
+
+# ownershipSpecificationLacyBenson
+
 
 # Catch All - Defer to the gitignore maintainers
+
 * @github/gitignore-maintainers
+lacybenson
+
+
+[def]: https://git-scm.com/docs/gitignore
+[def2]: https://docs.github.com/articles/about-codeowners
